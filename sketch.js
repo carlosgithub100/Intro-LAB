@@ -3,7 +3,7 @@ let colorlist = ['#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4
 let movers = []
 let G = 0.1
 let wind = 0 // constant wind
-let gust = 3 // 👈 big dramatic gust when space is pressed
+let gust = 3 //  big dramatic gust when space is pressed
 let gusting = false
 let gustTimer = 0
 
